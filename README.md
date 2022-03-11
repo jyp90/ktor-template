@@ -1,4 +1,13 @@
+# Goal
+
+Kotlin Framework 인 `ktor` 로 `kotlin` 언어의 기본 학습을 하며 API 및 웹 프로젝트를 구현해보기
+
+---
+
+
 # API Documentation
+
+Postman Link : `https://documenter.getpostman.com/view/7034410/UVsHUnkf`
 
 ### Customer
 
